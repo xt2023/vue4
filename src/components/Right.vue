@@ -1,6 +1,7 @@
 <template>
   <div class="right-container">
     <h3>Right 组件</h3>
+    <MyCount :init="3"></MyCount>
   </div>
 </template>
 
